@@ -5,6 +5,7 @@ section {
   font-family: sans-serif;
   height: 200px;
   width: 200px;
+  border: 2px dotted black;
 }
 section:nth-of-type(1) {
   background-color: black;
@@ -13,5 +14,5 @@ section:nth-of-type(2) {
   background-color: green;
 }
 section:nth-of-type(4) {
-  background-color: magenta;
+	background-color: magenta;
 }
